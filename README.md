@@ -10,7 +10,10 @@ Yurun Lu, Dan Liu, Zhongming Liang, et al. A pretrained transformer model for de
 ```
 pip install -r requirements.txt
 ```
-
+Download ckp weight file from google drive
+```
+wget https://drive.google.com/file/d/1SOUkaRoMR7eOGb2EUYBJ-QmXI1Lc0af9
+```
 
 
 ## Data processing
