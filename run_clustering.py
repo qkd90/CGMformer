@@ -37,7 +37,7 @@ def parse_args():
 def main():
     args = parse_args()
     filter_target = "type"
-    embex = EmbExtractor(model_type="SampleClassifier",
+    embex = EmbExtractor(model_type="Pretrained",
                          max_length=289,
                          num_classes=0,
                          emb_mode="sample",
